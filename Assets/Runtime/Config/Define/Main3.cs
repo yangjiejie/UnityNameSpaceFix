@@ -1,7 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace RuntimeAB.ConfigAB.DefineAB
+
+namespace RunTime.Config.Define
 {
 
     public static class Main3Static  
