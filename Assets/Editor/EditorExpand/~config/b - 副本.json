@@ -1,0 +1,366 @@
+{
+  "Name": "Assets",
+  "fullPath": "D:/work/study/testcodebase/Assets",
+  "originUnityPath": "",
+  "NowUnityPath": "",
+  "IsExpanded": true,
+  "FullPath": "D:/work/study/testcodebase/Assets",
+  "OriginUnityPath": "",
+  "Children": [
+    {
+      "Name": "Art",
+      "fullPath": "D:/work/study/testcodebase/Assets\\Art",
+      "originUnityPath": "Art",
+      "NowUnityPath": "Art",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\Art",
+      "OriginUnityPath": "Art",
+      "Children": [
+        {
+          "Name": "hall",
+          "fullPath": "D:/work/study/testcodebase/Assets\\Art\\hall",
+          "originUnityPath": "Art/hall",
+          "NowUnityPath": "Art/hall",
+          "IsExpanded": false,
+          "FullPath": "D:/work/study/testcodebase/Assets\\Art\\hall",
+          "OriginUnityPath": "Art/hall",
+          "Children": [
+            {
+              "Name": "image",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Art\\hall\\image",
+              "originUnityPath": "Art/hall/image",
+              "NowUnityPath": "Art/hall/image",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Art\\hall\\image",
+              "OriginUnityPath": "Art/hall/image",
+              "Children": []
+            },
+            {
+              "Name": "prefab",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Art\\hall\\prefab",
+              "originUnityPath": "Art/hall/prefab",
+              "NowUnityPath": "Art/hall/prefab",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Art\\hall\\prefab",
+              "OriginUnityPath": "Art/hall/prefab",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Editor",
+      "fullPath": "D:/work/study/testcodebase/Assets\\Editor",
+      "originUnityPath": "Editor",
+      "NowUnityPath": "Editor",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\Editor",
+      "OriginUnityPath": "Editor",
+      "Children": [
+        {
+          "Name": "EditorExpand",
+          "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand",
+          "originUnityPath": "Editor/EditorExpand",
+          "NowUnityPath": "Editor/EditorExpand",
+          "IsExpanded": false,
+          "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand",
+          "OriginUnityPath": "Editor/EditorExpand",
+          "Children": [
+            {
+              "Name": "AssetDepandency",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency",
+              "originUnityPath": "Editor/EditorExpand/AssetDepandency",
+              "NowUnityPath": "Editor/EditorExpand/AssetDepandency",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency",
+              "OriginUnityPath": "Editor/EditorExpand/AssetDepandency",
+              "Children": [
+                {
+                  "Name": "DependenciesWindow",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\DependenciesWindow",
+                  "originUnityPath": "Editor/EditorExpand/AssetDepandency/DependenciesWindow",
+                  "NowUnityPath": "Editor/EditorExpand/AssetDepandency/DependenciesWindow",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\DependenciesWindow",
+                  "OriginUnityPath": "Editor/EditorExpand/AssetDepandency/DependenciesWindow",
+                  "Children": []
+                },
+                {
+                  "Name": "DuplicateWindow",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\DuplicateWindow",
+                  "originUnityPath": "Editor/EditorExpand/AssetDepandency/DuplicateWindow",
+                  "NowUnityPath": "Editor/EditorExpand/AssetDepandency/DuplicateWindow",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\DuplicateWindow",
+                  "OriginUnityPath": "Editor/EditorExpand/AssetDepandency/DuplicateWindow",
+                  "Children": []
+                },
+                {
+                  "Name": "ReferenceWindow",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\ReferenceWindow",
+                  "originUnityPath": "Editor/EditorExpand/AssetDepandency/ReferenceWindow",
+                  "NowUnityPath": "Editor/EditorExpand/AssetDepandency/ReferenceWindow",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\ReferenceWindow",
+                  "OriginUnityPath": "Editor/EditorExpand/AssetDepandency/ReferenceWindow",
+                  "Children": []
+                },
+                {
+                  "Name": "TreeDataModel",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\TreeDataModel",
+                  "originUnityPath": "Editor/EditorExpand/AssetDepandency/TreeDataModel",
+                  "NowUnityPath": "Editor/EditorExpand/AssetDepandency/TreeDataModel",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\AssetDepandency\\TreeDataModel",
+                  "OriginUnityPath": "Editor/EditorExpand/AssetDepandency/TreeDataModel",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "NameSpaceTool",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\NameSpaceTool",
+              "originUnityPath": "Editor/EditorExpand/NameSpaceTool",
+              "NowUnityPath": "Editor/EditorExpand/NameSpaceTool",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\NameSpaceTool",
+              "OriginUnityPath": "Editor/EditorExpand/NameSpaceTool",
+              "Children": []
+            },
+            {
+              "Name": "RunTimePrefabEditor",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\RunTimePrefabEditor",
+              "originUnityPath": "Editor/EditorExpand/RunTimePrefabEditor",
+              "NowUnityPath": "Editor/EditorExpand/RunTimePrefabEditor",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\RunTimePrefabEditor",
+              "OriginUnityPath": "Editor/EditorExpand/RunTimePrefabEditor",
+              "Children": []
+            },
+            {
+              "Name": "TextureViewer",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer",
+              "originUnityPath": "Editor/EditorExpand/TextureViewer",
+              "NowUnityPath": "Editor/EditorExpand/TextureViewer",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer",
+              "OriginUnityPath": "Editor/EditorExpand/TextureViewer",
+              "Children": [
+                {
+                  "Name": "Editor",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor",
+                  "originUnityPath": "Editor/EditorExpand/TextureViewer/Editor",
+                  "NowUnityPath": "Editor/EditorExpand/TextureViewer/Editor",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor",
+                  "OriginUnityPath": "Editor/EditorExpand/TextureViewer/Editor",
+                  "Children": [
+                    {
+                      "Name": "Data",
+                      "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\Data",
+                      "originUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Data",
+                      "NowUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Data",
+                      "IsExpanded": false,
+                      "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\Data",
+                      "OriginUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Data",
+                      "Children": []
+                    },
+                    {
+                      "Name": "TreeView",
+                      "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\TreeView",
+                      "originUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeView",
+                      "NowUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeView",
+                      "IsExpanded": false,
+                      "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\TreeView",
+                      "OriginUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeView",
+                      "Children": []
+                    },
+                    {
+                      "Name": "TreeViewColumn",
+                      "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\TreeViewColumn",
+                      "originUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeViewColumn",
+                      "NowUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeViewColumn",
+                      "IsExpanded": false,
+                      "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\TreeViewColumn",
+                      "OriginUnityPath": "Editor/EditorExpand/TextureViewer/Editor/TreeViewColumn",
+                      "Children": []
+                    },
+                    {
+                      "Name": "Utils",
+                      "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\Utils",
+                      "originUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Utils",
+                      "NowUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Utils",
+                      "IsExpanded": false,
+                      "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\TextureViewer\\Editor\\Utils",
+                      "OriginUnityPath": "Editor/EditorExpand/TextureViewer/Editor/Utils",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "~config",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\~config",
+              "originUnityPath": "Editor/EditorExpand/~config",
+              "NowUnityPath": "Editor/EditorExpand/~config",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\EditorExpand\\~config",
+              "OriginUnityPath": "Editor/EditorExpand/~config",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "~config",
+          "fullPath": "D:/work/study/testcodebase/Assets\\Editor\\~config",
+          "originUnityPath": "Editor/~config",
+          "NowUnityPath": "Editor/~config",
+          "IsExpanded": false,
+          "FullPath": "D:/work/study/testcodebase/Assets\\Editor\\~config",
+          "OriginUnityPath": "Editor/~config",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Name": "hot_fix",
+      "fullPath": "D:/work/study/testcodebase/Assets\\hot_fix",
+      "originUnityPath": "hot_fix",
+      "NowUnityPath": "hot_fix",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\hot_fix",
+      "OriginUnityPath": "hot_fix",
+      "Children": [
+        {
+          "Name": "Module",
+          "fullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module",
+          "originUnityPath": "hot_fix/Module",
+          "NowUnityPath": "hot_fix/Module",
+          "IsExpanded": false,
+          "FullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module",
+          "OriginUnityPath": "hot_fix/Module",
+          "Children": [
+            {
+              "Name": "Shop",
+              "fullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module\\Shop",
+              "originUnityPath": "hot_fix/Module/Shop",
+              "NowUnityPath": "hot_fix/Module/Shop",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module\\Shop",
+              "OriginUnityPath": "hot_fix/Module/Shop",
+              "Children": [
+                {
+                  "Name": "Interface",
+                  "fullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module\\Shop\\Interface",
+                  "originUnityPath": "hot_fix/Module/Shop/Interface",
+                  "NowUnityPath": "hot_fix/Module/Shop/Interface",
+                  "IsExpanded": false,
+                  "FullPath": "D:/work/study/testcodebase/Assets\\hot_fix\\Module\\Shop\\Interface",
+                  "OriginUnityPath": "hot_fix/Module/Shop/Interface",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "LauncherAb",
+      "fullPath": "D:\\work\\study\\testcodebase\\Assets\\LauncherAb",
+      "originUnityPath": "Launcher",
+      "NowUnityPath": "LauncherAb",
+      "IsExpanded": true,
+      "FullPath": "D:\\work\\study\\testcodebase\\Assets\\LauncherAb",
+      "OriginUnityPath": "Launcher",
+      "Children": [
+        {
+          "Name": "GameAB",
+          "fullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\GameAB",
+          "originUnityPath": "Launcher/Game",
+          "NowUnityPath": "Launcher/GameAB",
+          "IsExpanded": true,
+          "FullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\GameAB",
+          "OriginUnityPath": "Launcher/Game",
+          "Children": [
+            {
+              "Name": "StageAB",
+              "fullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\Game\\StageAB",
+              "originUnityPath": "Launcher/Game/Stage",
+              "NowUnityPath": "Launcher/Game/StageAB",
+              "IsExpanded": true,
+              "FullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\Game\\StageAB",
+              "OriginUnityPath": "Launcher/Game/Stage",
+              "Children": [
+                {
+                  "Name": "SlotAB",
+                  "fullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\Game\\Stage\\SlotAB",
+                  "originUnityPath": "Launcher/Game/Stage/Slot",
+                  "NowUnityPath": "Launcher/Game/Stage/SlotAB",
+                  "IsExpanded": false,
+                  "FullPath": "D:\\work\\study\\testcodebase\\Assets\\Launcher\\Game\\Stage\\SlotAB",
+                  "OriginUnityPath": "Launcher/Game/Stage/Slot",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Runtime",
+      "fullPath": "D:/work/study/testcodebase/Assets\\Runtime",
+      "originUnityPath": "Runtime",
+      "NowUnityPath": "Runtime",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\Runtime",
+      "OriginUnityPath": "Runtime",
+      "Children": [
+        {
+          "Name": "Config",
+          "fullPath": "D:/work/study/testcodebase/Assets\\Runtime\\Config",
+          "originUnityPath": "Runtime/Config",
+          "NowUnityPath": "Runtime/Config",
+          "IsExpanded": false,
+          "FullPath": "D:/work/study/testcodebase/Assets\\Runtime\\Config",
+          "OriginUnityPath": "Runtime/Config",
+          "Children": [
+            {
+              "Name": "Define",
+              "fullPath": "D:/work/study/testcodebase/Assets\\Runtime\\Config\\Define",
+              "originUnityPath": "Runtime/Config/Define",
+              "NowUnityPath": "Runtime/Config/Define",
+              "IsExpanded": false,
+              "FullPath": "D:/work/study/testcodebase/Assets\\Runtime\\Config\\Define",
+              "OriginUnityPath": "Runtime/Config/Define",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Scenes",
+      "fullPath": "D:/work/study/testcodebase/Assets\\Scenes",
+      "originUnityPath": "Scenes",
+      "NowUnityPath": "Scenes",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\Scenes",
+      "OriginUnityPath": "Scenes",
+      "Children": []
+    },
+    {
+      "Name": "UI",
+      "fullPath": "D:/work/study/testcodebase/Assets\\UI",
+      "originUnityPath": "UI",
+      "NowUnityPath": "UI",
+      "IsExpanded": false,
+      "FullPath": "D:/work/study/testcodebase/Assets\\UI",
+      "OriginUnityPath": "UI",
+      "Children": []
+    }
+  ]
+}

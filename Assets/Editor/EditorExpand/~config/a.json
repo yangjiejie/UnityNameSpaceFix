@@ -1,0 +1,129 @@
+{
+  "Name": "Assets",
+  "fullPath": "E:/2024Code/codeBase/Assets",
+  "originUnityPath": "",
+  "NowUnityPath": "",
+  "IsExpanded": true,
+  "FullPath": "E:/2024Code/codeBase/Assets",
+  "OriginUnityPath": "",
+  "Children": [
+    {
+      "Name": "HotFixAB",
+      "fullPath": "E:\\2024Code\\codeBase\\Assets\\HotFixAB",
+      "originUnityPath": "hot_fix",
+      "NowUnityPath": "HotFixAB",
+      "IsExpanded": true,
+      "FullPath": "E:\\2024Code\\codeBase\\Assets\\HotFixAB",
+      "OriginUnityPath": "hot_fix",
+      "Children": [
+        {
+          "Name": "ModuleAB",
+          "fullPath": "E:\\2024Code\\codeBase\\Assets\\hot_fix\\ModuleAB",
+          "originUnityPath": "hot_fix/Module",
+          "NowUnityPath": "hot_fix/ModuleAB",
+          "IsExpanded": true,
+          "FullPath": "E:\\2024Code\\codeBase\\Assets\\hot_fix\\ModuleAB",
+          "OriginUnityPath": "hot_fix/Module",
+          "Children": [
+            {
+              "Name": "ShopAB",
+              "fullPath": "E:\\2024Code\\codeBase\\Assets\\hot_fix\\Module\\ShopAB",
+              "originUnityPath": "hot_fix/Module/Shop",
+              "NowUnityPath": "hot_fix/Module/ShopAB",
+              "IsExpanded": true,
+              "FullPath": "E:\\2024Code\\codeBase\\Assets\\hot_fix\\Module\\ShopAB",
+              "OriginUnityPath": "hot_fix/Module/Shop",
+              "Children": [
+                {
+                  "Name": "Interface",
+                  "fullPath": "E:/2024Code/codeBase/Assets\\hot_fix\\Module\\Shop\\Interface",
+                  "originUnityPath": "hot_fix/Module/Shop/Interface",
+                  "NowUnityPath": "hot_fix/Module/Shop/Interface",
+                  "IsExpanded": false,
+                  "FullPath": "E:/2024Code/codeBase/Assets\\hot_fix\\Module\\Shop\\Interface",
+                  "OriginUnityPath": "hot_fix/Module/Shop/Interface",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Launcher",
+      "fullPath": "E:/2024Code/codeBase/Assets\\Launcher",
+      "originUnityPath": "Launcher",
+      "NowUnityPath": "Launcher",
+      "IsExpanded": true,
+      "FullPath": "E:/2024Code/codeBase/Assets\\Launcher",
+      "OriginUnityPath": "Launcher",
+      "Children": [
+        {
+          "Name": "Game",
+          "fullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game",
+          "originUnityPath": "Launcher/Game",
+          "NowUnityPath": "Launcher/Game",
+          "IsExpanded": false,
+          "FullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game",
+          "OriginUnityPath": "Launcher/Game",
+          "Children": [
+            {
+              "Name": "Stage",
+              "fullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game\\Stage",
+              "originUnityPath": "Launcher/Game/Stage",
+              "NowUnityPath": "Launcher/Game/Stage",
+              "IsExpanded": false,
+              "FullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game\\Stage",
+              "OriginUnityPath": "Launcher/Game/Stage",
+              "Children": [
+                {
+                  "Name": "Slot",
+                  "fullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game\\Stage\\Slot",
+                  "originUnityPath": "Launcher/Game/Stage/Slot",
+                  "NowUnityPath": "Launcher/Game/Stage/Slot",
+                  "IsExpanded": false,
+                  "FullPath": "E:/2024Code/codeBase/Assets\\Launcher\\Game\\Stage\\Slot",
+                  "OriginUnityPath": "Launcher/Game/Stage/Slot",
+                  "Children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Runtime",
+      "fullPath": "E:/2024Code/codeBase/Assets\\Runtime",
+      "originUnityPath": "Runtime",
+      "NowUnityPath": "Runtime",
+      "IsExpanded": true,
+      "FullPath": "E:/2024Code/codeBase/Assets\\Runtime",
+      "OriginUnityPath": "Runtime",
+      "Children": [
+        {
+          "Name": "Config",
+          "fullPath": "E:/2024Code/codeBase/Assets\\Runtime\\Config",
+          "originUnityPath": "Runtime/Config",
+          "NowUnityPath": "Runtime/Config",
+          "IsExpanded": true,
+          "FullPath": "E:/2024Code/codeBase/Assets\\Runtime\\Config",
+          "OriginUnityPath": "Runtime/Config",
+          "Children": [
+            {
+              "Name": "Define",
+              "fullPath": "E:/2024Code/codeBase/Assets\\Runtime\\Config\\Define",
+              "originUnityPath": "Runtime/Config/Define",
+              "NowUnityPath": "Runtime/Config/Define",
+              "IsExpanded": false,
+              "FullPath": "E:/2024Code/codeBase/Assets\\Runtime\\Config\\Define",
+              "OriginUnityPath": "Runtime/Config/Define",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "9fc0d4010bbf28b4594072e72b8655ab": {
+    "originFilePathName": "Assets/Scenes/SampleScene.unity",
+    "originGuid": "9fc0d4010bbf28b4594072e72b8655ab",
+    "dependecy": null
+  },
+  "e8ef344794e0833408f69dfabd1cc960": {
+    "originFilePathName": "Assets/Art/hall/prefab/Prefab.prefab",
+    "originGuid": "e8ef344794e0833408f69dfabd1cc960",
+    "dependecy": [
+      {
+        "originFilePathName": "Assets/Launcher/Game/Stage/Slot/Main2.cs",
+        "originGuid": "fb836b29fe8e6304587a173ca315b7a1",
+        "dependecy": null
+      },
+      {
+        "originFilePathName": "Assets/Runtime/Config/Define/Main3.cs",
+        "originGuid": "3eb9a4f2182f4584b82e16712af9875c",
+        "dependecy": null
+      }
+    ]
+  },
+  "fb836b29fe8e6304587a173ca315b7a1": {
+    "originFilePathName": "Assets/Launcher/Game/Stage/Slot/Main2.cs",
+    "originGuid": "fb836b29fe8e6304587a173ca315b7a1",
+    "dependecy": null
+  },
+  "3eb9a4f2182f4584b82e16712af9875c": {
+    "originFilePathName": "Assets/Runtime/Config/Define/Main3.cs",
+    "originGuid": "3eb9a4f2182f4584b82e16712af9875c",
+    "dependecy": null
+  },
+  "d73ad8be1aba6b14c88097c7bab67ae8": {
+    "originFilePathName": "Assets/Editor/EditorExpand/AssetDepandency/WuHuan.AssetDanshari.Editor.asmdef",
+    "originGuid": "d73ad8be1aba6b14c88097c7bab67ae8",
+    "dependecy": null
+  },
+  "0247c3a67be2d174c83a7157b0c3f32d": {
+    "originFilePathName": "Assets/Editor/EditorExpand/TextureViewer/TextureViewer.asmdef",
+    "originGuid": "0247c3a67be2d174c83a7157b0c3f32d",
+    "dependecy": null
+  },
+  "de27687c319cd664bb5a996e0cef37f0": {
+    "originFilePathName": "Assets/hot_fix/hot_fix.asmdef",
+    "originGuid": "de27687c319cd664bb5a996e0cef37f0",
+    "dependecy": [
+      {
+        "originFilePathName": "Assets/Launcher/Launcher.asmdef",
+        "originGuid": "50320d1975595e74f893b7594a52124f",
+        "dependecy": null
+      },
+      {
+        "originFilePathName": "Assets/Runtime/RunTime.asmdef",
+        "originGuid": "220a4ca440df23442989c5f9eed25ef0",
+        "dependecy": null
+      }
+    ]
+  },
+  "50320d1975595e74f893b7594a52124f": {
+    "originFilePathName": "Assets/Launcher/Launcher.asmdef",
+    "originGuid": "50320d1975595e74f893b7594a52124f",
+    "dependecy": null
+  },
+  "220a4ca440df23442989c5f9eed25ef0": {
+    "originFilePathName": "Assets/Runtime/RunTime.asmdef",
+    "originGuid": "220a4ca440df23442989c5f9eed25ef0",
+    "dependecy": null
+  }
+}

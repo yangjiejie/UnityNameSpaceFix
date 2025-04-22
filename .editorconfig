@@ -1,0 +1,16 @@
+
+
+
+
+
+# 确保C#文件使用UTF-8编码
+[*.cs]
+charset = utf-8
+end_of_line = crlf
+
+# 设置C#文件的缩进风格为4个空格
+[*.cs]
+indent_style = space
+indent_size = 4
+
+
